@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was Packaged with [Create React App](https://github.com/facebook/create-react-app).
-s
+
 ## Available Scripts
 
 In the project directory, you can run the following commands in the terminal :
