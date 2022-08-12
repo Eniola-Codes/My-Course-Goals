@@ -36,6 +36,11 @@ const App = () => {
   }
 
   return (
+    <>
+          <div className='header_div'>
+      <h1 className='header_text'>My Course Goals</h1>
+    </div>
+
     <div>
       <section id="goal-form">
         <CourseInput onAddGoal={addGoalHandler} />
@@ -51,6 +56,7 @@ const App = () => {
         } */}
       </section>
     </div>
+    </>
   );
 };
 
