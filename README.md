@@ -13,15 +13,15 @@ A Course goal application which you can use to store information of a user
 
 The application takes on an input from the user in a form which is the Course Goal :
 
-![Form](https://github.com/Eniola-Codes/User-Data-App/blob/main/src/assets/userform.png?raw=true)
+![Form](https://github.com/Eniola-Codes/My-Course-Goals/blob/main/src/assets/courseform.png?raw=true)
 
 The form comes with a validation, if you input an invalid value, you will get an error style.
 
-![Error messsage](https://github.com/Eniola-Codes/User-Data-App/blob/main/src/assets/userinfoerror.png?raw=true)
+![Error messsage](https://github.com/Eniola-Codes/My-Course-Goals/blob/main/src/assets/courseerror.png?raw=true)
 
 On the other hand, when you submit a valid value,an item is added to the bucket list
 
-![user list item](https://github.com/Eniola-Codes/User-Data-App/blob/main/src/assets/userlist%20item.png?raw=true) 
+![user list item](https://github.com/Eniola-Codes/My-Course-Goals/blob/main/src/assets/goalbar.png?raw=true) 
 
 **Technologies**
 
